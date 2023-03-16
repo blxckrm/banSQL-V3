@@ -7,4 +7,4 @@ server_scripts({
 	'server/main.lua'
 })
 
-client_script 'lystyac.lua'
+client_script 'docx.lua'
